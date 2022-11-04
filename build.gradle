@@ -19,8 +19,6 @@ repositories {
 
 dependencies {
     implementation files('lib/DiscordSRV-Build-1.26.0.jar')
-    compileOnly 'org.projectlombok:lombok:1.18.24'
-    annotationProcessor 'org.projectlombok:lombok:1.18.24'
 
     compileOnly 'com.destroystokyo.paper:paper-api:1.12.2-R0.1-SNAPSHOT'
 }
