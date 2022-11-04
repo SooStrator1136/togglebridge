@@ -1,0 +1,9 @@
+name: ToggleBridge
+version: '${version}'
+main: dev.soostrator.togglebridge.ToggleBridge
+authors: [ SooStrator1136 ]
+softdepend:
+  - DiscordSRV
+commands:
+  togglebridge:
+    description: Toggles tbe bridge for a player
